@@ -121,3 +121,7 @@ nginx        alpine          513f9a9d8748   6 days ago          22.9MB
 
 ```
  
+ ## 5. (TBA) create backend express server, test frontend to backend with axios
+ - test api CRUD using axios
+ 
+ ## 6. (create mongo db? connect to backend server, test)
